@@ -1,0 +1,1 @@
+<div id="my_header"><div id="my_header_inner">Sample codeigniter template</div></div>
